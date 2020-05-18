@@ -16,3 +16,7 @@ A whatsapp bot that saves pictures on a cloud storage
       Or <br>
 
     `python3 bot.py # in unix Systems`
+
+## :rotating_light: LICENCE
+
+This project is licensed under [MIT](https://billyokeyo.mit-license.org/) licence.
